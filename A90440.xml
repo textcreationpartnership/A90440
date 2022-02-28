@@ -1,0 +1,299 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true speeches of Collonel John Penruddock, and Hugh Grove delivered on the scaffold at Exeter Castle, May the 17th, 1655.</title>
+            <author>Penruddock, John, 1619-1655.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90440</idno>
+            <idno type="STC">Wing P1431A</idno>
+            <idno type="STC">ESTC R42603</idno>
+            <idno type="EEBO-CITATION">36282435</idno>
+            <idno type="OCLC">ocm 36282435</idno>
+            <idno type="VID">150162</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90440)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150162)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2234:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true speeches of Collonel John Penruddock, and Hugh Grove delivered on the scaffold at Exeter Castle, May the 17th, 1655.</title>
+                  <author>Penruddock, John, 1619-1655.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed to prevent false copies,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>An. Dom. 1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Penruddock, John, 1619-1655.</term>
+               <term>Grove, Hugh, d. 1655.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div n="Colonel John Penrudduck" type="speech">
+            <pb n="1" facs="tcp:150162:1"/>
+            <head>The true Speeches of COLLONEL JOHN PENRUDDUCK, AND HUGH
+GROVE: <hi>Delivered on the Scaffold at</hi> Exeter <hi>Caſtle,</hi> May
+<hi>the</hi> 17.<hi rend="sup">th</hi>, 1655.</head>
+            <p>
+               <seg rend="decorInit">V</seg>VRetched Man that I am; who ſhall deliver me from this body
+of Death?</p>
+            <p>Gentlemen, it hath been the cuſtome of all Priſoners, when
+they come to Dye, to diſcharge themſelves, in order, to the
+ſatiſ<g ref="char:EOLhyphen"/>faction of the World; whether, they are guilty of the Fact, they
+ſtand charged of, or no? The crime for which I am to Dye; it is high
+Treaſon (as they ſay.) J muſt confeſſe I was at <hi>South-molton</hi>
+in this County: But whether my being there, or my actions there, doe amount to
+ſo high a crime, as high Treaſon: I leave to the world to judge? If I were
+guilty to my Self, of any baſe end, I had in theſe my Undertakings; J would
+not be ſo injurious to my owne ſoule, or ſo diſ-ingenious to you, as,
+not to make a pub<g ref="char:EOLhyphen"/>like acknowledgment thereof: I beleeve, divers perſons, as
+they are byaſs'd by their ſeverall Intereſts, and relations, will
+<pb n="2" facs="tcp:150162:2"/>give their opinions to the
+world concerning me: As it is therefore as impoſſible to expreſſe my
+ſelf in theſe particulars, as not to expoſe, both my judgement, and
+reputation to others, without a breach of charity concerning my ſelf, or my
+Acti<g ref="char:EOLhyphen"/>ons: I thought fit, to decline all diſcourſes, which may give them, a
+capacity; either to injure my Self, or my cauſe: My tryall was Publike,
+Honourable, and eminent? My ſeverall Examinations (I beleeve) will be
+produc'd when J am in the Grave: I will referre you therefore to my firſt
+Tryall, which (I am ſure) ſome of you, in good time may ſee: Had Captain
+<hi>Crooke</hi> done himſelfe, and us, that right which a Gentleman and a
+Souldier ought to have done; I had now injoyed my owne, and not been heere this
+Day: I forgive the man with all my heart; But truly, He did us an injury by
+inforcing thoſe Articles upon us, when his owne Conſcience told him, he had
+no intention to performe them: And indeed (his proteſting a<g ref="char:EOLhyphen"/>gainſt thoſe
+Articles) which He himſelfe with ſo many Prote<g ref="char:EOLhyphen"/>ſtations had forced upon
+us, hath drawne ſo much diſhonour, and blood, upon his head, that (J leare)
+ſome heavie judge<g ref="char:EOLhyphen"/>ment will purſue him, 'cauſe He hath been ſo falſe
+to Us: I pray God I prove not a true Prophet to him; yet, I am glad that ſome
+of our Party, have injoyed the benefit of his Arti<g ref="char:EOLhyphen"/>cles; though I my ſelfe
+were deprived of them: Yet I drew them with my owne hand: This I'le ſay for
+the honour of my Souldiers; that they have been ſo farre from breaking any
+Ar<g ref="char:EOLhyphen"/>ticles given to others; that they have rather bettered them, then
+otherwiſe. But I will not load the Protector with this diſho<g ref="char:EOLhyphen"/>nour; For, I
+have heard He would have made our Conditi<g ref="char:EOLhyphen"/>ons good, if <hi>Crooke</hi> that
+gave them had not abjured them: But this is not a time for me to inlarge my
+Self upon any ſub<g ref="char:EOLhyphen"/>ject, when I (my ſelfe) am become the ſubject of Death:
+But whereas I ſaid, I drew them with my owne hand; I thought I was obliged to
+a particuler vindication of them. I could tell you of ſome of
+<hi>Crookes</hi> Souldiers, that were turn'd <pb n="3" facs="tcp:150162:2"/>out
+of his Troope, for defending thoſe Conditions of ours; but let that
+paſſe: But howſoever hence-forward, in ſtead of Life, Liberty, and
+Eſtate, which wee ſhould have had, by our Arti<g ref="char:EOLhyphen"/>cles; let Hanging, Drawing,
+and Quartering, be the denomi<g ref="char:EOLhyphen"/>nation of Captaine <hi>Crookes</hi> Articles.
+However, I thanke the Protector that hee hath indulged me ſo farre, as to let
+me have the Honour, as to have my Head ſevered from my Body.</p>
+            <p>J ſhould now, (Gentlemen) give you an accompt of my Faith; But
+this Nation is rent into ſo many ſeverall Opinions, that it is
+impoſſible, for me to give you mine owne, without diſpleaſing ſome,
+or others of you; yet, if any be ſo criticall, as, to inquire of what Faith I
+dyed: It is the ſame of the A<g ref="char:EOLhyphen"/>poſtles, and <hi>Athanaſius</hi> Creed,
+without which no man can bee ſaved: I have ſubſcribed, and doe owne the
+39. Articles of the Church of <hi>England:</hi> If this will not ſatisfie
+them; I re<g ref="char:EOLhyphen"/>ferre them to the reverend Dr. <hi>Short,</hi> to whom I have
+unbo<g ref="char:EOLhyphen"/>ſom'd my ſelfe, as, to the particulers of my Religion.</p>
+            <p>And now (Gentlemen) having given you accompt of my Selfe: I hold
+my ſelf oblig'd, to give you ſome accompt (too) of my Friends (I meane) as,
+to ſome perſons of Honour; who upon my Examination I was charg'd to have
+correſpondency with, (concerning this buſineſs:) The Lord Marquis of
+<hi>Hart<g ref="char:EOLhyphen"/>ford;</hi> the Marquis of <hi>Wincheſter;</hi> the Lord of
+<hi>Pembroke:</hi> Theſe were the Perſons denominated to me, whom I did
+then acquit, and doe now ſecond it, with this Proteſtation, that I had
+never any correſpondence with either of them, in relation to this particuler
+Buſineſſe, or any other that concernes the Pro<g ref="char:EOLhyphen"/>tector, or his Government:
+As for the Marquis of <hi>Winton,</hi> I ſaw him Twelve yeares agoe, and not
+ſince; and if I ſhould ſee him heere preſently. J ſhould not know
+him: As for the Lord of <hi>Pembroke,</hi> he was not a man likely to whom I
+ſhould diſcover my thoughts; becauſe I never knew how hee ſtood
+affected: I was likewiſe Examined concerning my Couſin
+<pb n="4" facs="tcp:150162:3"/>
+               <hi>Freake,</hi> my Couſin
+<hi>Haſtings,</hi> and my Couſin <hi>Dallington:</hi> they are men of great
+Eſtates (I confeſſe) which may make them lyable to this Inquiſition,
+and endeavour, to be brought into my condition: but J doe ſo farre acquit
+them, that I give the world this further Proteſtation of them, that as farre
+as I know, I am confident, They are as innocent as any Child here.</p>
+            <p>I have no more to ſay, but that I am in Charity with all men;
+and I thanke God I can forgive my greateſt Perſecu<g ref="char:EOLhyphen"/>ters; and can goe upon
+my bare knees to my greateſt Ene<g ref="char:EOLhyphen"/>mies to forgive them: and I forgive all
+thoſe, that had any hand in my Death: I have offered the Protector as good
+Se<g ref="char:EOLhyphen"/>curity for my future demeanor, as I ſuppoſe hee could have expected, if
+hee had thought fit to have given me my Life; certainly I ſhould not have
+been ſo ungratefull as to have im<g ref="char:EOLhyphen"/>ployed it againſt him. But I ſubmit to
+Gods pleaſure, know<g ref="char:EOLhyphen"/>ing that the iſſues of Life and Death are in the
+hands of God.</p>
+            <p>My blood is but a ſmall Sacrifice, if it had been ſaved, I
+am ſo much a Gentleman, as to have given him thankes, that had preſerved
+it: and I am ſo much a Chriſtian, as to forgive him, that takes it
+away.</p>
+            <p>But ſince God by his providence hath called me, to lay down my
+Life; I doe heartily ſubmit to his will: Death is a debt, a due Debt, owing
+by all; it is terrible to Nature, but I looke on it without terrour. It hath
+pleaſed God to make me a good husband, to pay this Debt before my due.</p>
+            <p>Gentlemen, I am not aſhamed of the Cauſe for which I dye:
+and I hope none of my alliance or Friends will ever be aſha<g ref="char:EOLhyphen"/>med of it: J doe
+not looke upon it as a pulling downe of my Family, but as the raiſing of it a
+ſtory higher: yet J was not, ſo prodigall as to throw away my Life; for I
+uſed, all, yet none, but honeſt, and Honourable meanes to preſerve it:
+but theſe unhappie times have been very fatall to my Family; two of my
+Brothers have been already ſlaine, and I my ſelfe am now going to the
+ſlaughter.</p>
+            <pb n="5" facs="tcp:150162:3"/>
+            <p>It is Gods will, and J doe ſubmit to that Providence: I muſt
+render an acknowledgment of the great civilities I recei<g ref="char:EOLhyphen"/>ved from the City of
+<hi>Exon,</hi> and from ſome Perſons of quality, for that plentifull
+proviſion made for the Priſoners: I thanke this noble Sheriffe, for his
+many favours, and curteſies towards us; and in particuler to my ſelfe; and
+I deſire the Sheriffe to preſent my due reſpects to the Protector, that,
+though hee had no mercy upon me (my ſelfe) yet, that, hee would be pleas'd to
+have ſome, towards my Family.</p>
+            <p>As for this buſineſſe I now Dye for? I looke upon it, as
+an <hi>Individium vagum:</hi> J know not how, they aſſert this to be
+Treaſon, unleſſe they make it, to bee like the Wind in the Goſpell,
+<hi>To blow where it liſteth;</hi> I know not, to what end, this may come;
+but I pray God, that my blood, and my Bro<g ref="char:EOLhyphen"/>thers, (that is to Suffer heere with
+me) may be the laſt.</p>
+            <p>I am now putting off my cloathes to fight a duell with Death;
+for, (I conceive) no other Duels to bee lawfull? But my Saviour hath pulled out
+the Sting of this my enemy, hee hath made himſelfe a Sacrifice for mee; I doe
+not accompt that Man worthy of one drop of his Blood, that will not ſpend all
+for him in a good cauſe: As I now put off theſe garments of Cloath, ſo I
+hope I have put off my gar<g ref="char:EOLhyphen"/>ments of Sin, and have put on the robes of CHRIST's
+Righte<g ref="char:EOLhyphen"/>ouſneſſe, which will bring mee to his glorious Robes, anon.</p>
+            <p>I deſire to ſee the Axe, and he kiſſed it; and ſaid, I
+am like to have a ſharpe paſſage of it; but my Saviour hath taken away
+the ſting? and I hope hee will ſweeten it unto me.</p>
+            <p>Thus I commit my ſoule to God my Creator and Redeemer: O Lord
+looke upon me in my laſt gaſping! O Lord <hi>Jeſus Christ,</hi> have
+mercy upon me, and heare my Prayers! and the prayers of all good People for me.
+J will cloſe up all with praying for the King, and his reſtoration,
+—</p>
+            <pb n="6" facs="tcp:150162:4"/>
+            <p>I thanke thee O God, for all thy diſpenſations towards me:
+<hi>Glory be to God on high; On earth Peace; goodwill towards Men.</hi>
+            </p>
+            <p>Gentlemen, if I would have been ſo unworthy, as others have
+beene, I might for a Lye, have ſaved my Life? But I ſcorne to purchaſe it
+at ſuch a rate? But deny all ſuch temp<g ref="char:EOLhyphen"/>tations, and thoſe that offer
+them.</p>
+            <trailer>FIN.</trailer>
+         </div>
+         <div n="Hugh Groves" type="speech">
+            <pb n="7" facs="tcp:150162:4"/>
+            <head>Mr. <hi>HUGH GROVES</hi> Speech on the Scaffold, at the
+ſame time and Place.</head>
+            <p>
+               <seg rend="decorInit">G</seg>Ood People? J was never guilty of much Rethorick? Nor ever
+loved long Speeches in my life, Therefore you cannot expect ei<g ref="char:EOLhyphen"/>ther of them at
+my Death: All that I ſhall deſire of you, be<g ref="char:EOLhyphen"/>ſides your hearty Prayers
+for my Soule; is, that you would beare me witneſſe, that J dye, a true
+Sonne of the Church of <hi>England,</hi> as it was eſtabliſhed, by King
+<hi>Edward</hi> the 6th, Queen <hi>Elizabeth,</hi> King <hi>James,</hi> and
+King <hi>Charles,</hi> of ever bleſſed memory? And that I dye a Loyall
+ſubject to King <hi>Charles</hi> the 2. my undoubted Soveraigne, and a lover
+of good old Lawes of the land? The juſt priviledges of Parliament? The rights
+and liberties of the People. For the re-eſta<g ref="char:EOLhyphen"/>bliſhing of all which, I
+undertooke this Deſigne? and for which, I am now ready to lay downe my life:
+God forgive the Iudges and Councell, for perverting the Law? And God forgive
+the bloody minded Iury, and all thoſe, that procured them? God forgive
+<hi>Crooke,</hi> for denying and forſwearing his Articles, ſo unworthily?
+And God forgive Mr. <hi>Dove,</hi> and the reſt for ſwearing ſo falſly,
+and malici<g ref="char:EOLhyphen"/>ouſly againſt me? And God forgive all mine Ene<g ref="char:EOLhyphen"/>mies; for I
+heartily forgive them.</p>
+            <pb n="8" facs="tcp:150162:5" rendition="simple:additions"/>
+            <p>Now God bleſſe the King, and all thoſe that love him; and
+turne the hearts, of all thoſe that hate him: God bleſſe you all? And God
+bee mercifull unto you; and to my Soule, <hi>Amen.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed to prevent falſe Copies, <hi>AN. DOM. 1655.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
